@@ -1,5 +1,4 @@
-Testes E2E com Playwright
-
+Testes E2E com Playwright.
 Projeto de automação de testes End-to-End (E2E) utilizando Playwright e JavaScript, com foco na simulação de cenários reais de uso e validação do comportamento da aplicação.
 
 
@@ -44,11 +43,10 @@ Relatório de testes
     npx playwright show-report
 
 
-Objetivo
-
+Objetivo: 
     Desenvolver conhecimentos em testes automatizados E2E, utilizando boas práticas de QA e ferramentas modernas de automação.
 
 
-Sobre mim
+Sobre mim: 
     Sou desenvolvedor com interesse na área de Qualidade de Software (QA), focado em testes automatizados e melhoria contínua de aplicações.
     Estou em constante evolução, buscando aprender novas tecnologias e aprimorar minhas habilidades na área de tecnologia.
