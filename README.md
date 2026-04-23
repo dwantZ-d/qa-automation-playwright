@@ -22,7 +22,7 @@ Cenários testados
      Verificação de URL
 
 
-▶Como executar o projeto
+ Como executar o projeto
     1. Clonar o repositório
     git clone https://github.com/dwantZ-d/qa-automation-playwright.git
     2. Acessar a pasta
