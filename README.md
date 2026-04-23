@@ -3,9 +3,8 @@ Testes E2E com Playwright.
 Projeto de automação de testes End-to-End (E2E) utilizando Playwright e JavaScript, com foco na simulação de cenários reais de uso e validação do comportamento da aplicação.
 
 
-Sobre o projeto
-
-    Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em qualidade de software (QA), automatizando fluxos reais de usuário em aplicações web.
+Sobre o projeto: 
+     Este projeto foi desenvolvido com o objetivo de praticar e demonstrar habilidades em qualidade de software (QA), automatizando fluxos reais de usuário em aplicações web.
     Os testes simulam interações como navegação, busca de produtos e validação de elementos, garantindo que o sistema funcione corretamente do ponto de vista do usuário final.
 
 
